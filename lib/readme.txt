@@ -1,0 +1,1 @@
+store libv8_monolith.a
